@@ -1,0 +1,1 @@
+chat = await event.get_chat()
